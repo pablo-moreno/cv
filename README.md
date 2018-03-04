@@ -19,6 +19,7 @@
 
 ## Proyectos
 
+- **[Aplicación Web adopción de mascotas (Proyecto final DAW 2017)](https://github.com/pablo-moreno/adoptaweb)**
 - **[Librería cliente de la API de AEMET](https://github.com/pablo-moreno/python-aemet)**
 - **[Estación de medición de temperatura (IoT)](https://github.com/pablo-moreno/iot_weather_station)**
 
@@ -64,4 +65,12 @@
 - SQL Server
 - Joomla
 - Windows 8, Windows Server 2012
+
+
+## Formación 
+- CFGS Desarrollo Aplicaciones Web (IES Comercio, 2017)
+
+- CFGS Desarrollo Aplicaciones Multiplataforma (IES Comercio, 2016)
+
+- CFGS Administración de Sistemas Informáticos en Red (IES Comercio, 2014)
 
