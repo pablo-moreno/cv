@@ -11,11 +11,11 @@
 **Linkedin:** [Pablo Moreno Pradas](https://www.linkedin.com/in/pablo-moreno-pradas/)
 
 ## Skills
-**Lenguajes de programación:** Python, Javascript
+**Lenguajes de programación:** Python, Javascript, C#
 
 **Frameworks/Librerías:** Django, Node.js, Express, ReactJS
 
-**Otros:** Git, Github, Gogs, MongoDB, MySQL, Docker, PostgreSQL
+**Otros:** Git, Github, MongoDB, MySQL, Docker, PostgreSQL
 
 ## Proyectos
 
@@ -24,6 +24,19 @@
 - **[Estación de medición de temperatura (IoT)](https://github.com/pablo-moreno/iot_weather_station)**
 
 ## Trabajo 
+
+### Desarrollador .NET - [Nowtic](http://nowtic.es) (Febrero 2018-Abril 2018)
+
+**Descripción**
+- Programación de aplicaciones de escritorio Windows.
+
+**Tecnologías utilizadas**
+- C#
+- VB.NET
+- DevExpress
+- Factusol
+- Microsoft Access
+
 ### Desarrollador Frontend en prácticas - [Tempero Sistemas](https://tempero.es) (Marzo 2017-Junio 2017)
 
 **Descripción**
