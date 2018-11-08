@@ -1,6 +1,6 @@
 ## Pablo Moreno 
 
-**Desarrollador de software especializado en programación web con Pythony JavaScript. Defensor del Software Libre**
+**Desarrollador de software especializado en programación web con Python y JavaScript.**
 
 ## Contacto
 
