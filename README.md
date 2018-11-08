@@ -25,6 +25,20 @@
 
 ## Trabajo 
 
+### Full Stack Dveloper - [Kas Factory](https://kasfactory.net) (Julio 2018-Actualidad)
+
+**Descripción**
+- Desarrollo de aplicaciones web (full stack)
+
+**Tecnologías utilizadas**
+- Python
+- Django
+- Django Rest Framework
+- Vue.js
+- Docker
+- Jest
+- Amazon Web Services
+
 ### Desarrollador .NET - [Nowtic](http://nowtic.es) (Febrero 2018-Abril 2018)
 
 **Descripción**
