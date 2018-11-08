@@ -6,7 +6,7 @@
 
 **E-mail:** pablomoreno.inf@gmail.com
 
-**Twitter:** [@pablius93](https://twitter.com/pablius93)
+**Twitter:** [@\_spookydev\_](https://twitter.com/_spookydev_)
 
 **Linkedin:** [Pablo Moreno Pradas](https://www.linkedin.com/in/pablo-moreno-pradas/)
 
@@ -28,7 +28,9 @@
 ### Full Stack Dveloper - [Kas Factory](https://kasfactory.net) (Julio 2018-Actualidad)
 
 **Descripción**
-- Desarrollo de aplicaciones web (full stack)
+- Desarrollo de aplicaciones web
+- Desarrollo frontend (Vue.js, Sass)
+- Desarrollo backend API Rest (Django, Django Rest Framework)
 
 **Tecnologías utilizadas**
 - Python
@@ -36,8 +38,9 @@
 - Django Rest Framework
 - Vue.js
 - Docker
-- Jest
 - Amazon Web Services
+- Sass
+- Jest
 
 ### Desarrollador .NET - [Nowtic](http://nowtic.es) (Febrero 2018-Abril 2018)
 
