@@ -25,7 +25,7 @@
 
 ## Trabajo 
 
-### Full Stack Dveloper - [Kas Factory](https://kasfactory.net) (Julio 2018-Actualidad)
+### Full Stack Dveloper - [Kas Factory](https://kasfactory.net) (Julio 2018-Mayo 2019)
 
 **Descripción**
 - Desarrollo de aplicaciones web
