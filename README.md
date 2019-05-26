@@ -13,7 +13,7 @@
 ## Skills
 **Lenguajes de programación:** Python, Javascript, C#
 
-**Frameworks/Librerías:** Django, Node.js, Express, ReactJS
+**Frameworks/Librerías:** Django, Vue, Node.js, Express, ReactJS
 
 **Otros:** Git, Github, MongoDB, MySQL, Docker, PostgreSQL
 
@@ -22,6 +22,7 @@
 - **[Aplicación Web adopción de mascotas (Proyecto final DAW 2017)](https://github.com/pablo-moreno/adoptaweb)**
 - **[Librería cliente de la API de AEMET](https://github.com/pablo-moreno/python-aemet)**
 - **[Estación de medición de temperatura (IoT)](https://github.com/pablo-moreno/iot_weather_station)**
+- **Aplicación chat en tiempo real: [Backend](https://github.com/pablo-moreno/poppy) y [Frontend](https://github.com/pablo-moreno/poppy-pwa)**
 
 ## Trabajo 
 
