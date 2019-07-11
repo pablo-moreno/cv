@@ -36,6 +36,7 @@
 - Python
 - Django
 - Django Rest Framework
+- Flask
 - Docker
 - Amazon Web Services
 
