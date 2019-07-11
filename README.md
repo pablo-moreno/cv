@@ -26,7 +26,7 @@
 
 ## Trabajo 
 
-### Full Stack Developer - [The Key Talent](https://thekeytalent.com) (Junio 2018-Actualidad)
+### Full Stack Developer - [The Key Talent](https://thekeytalent.com) (Junio 2019-Actualidad)
 
 **Descripción**
 - Desarrollo de aplicaciones web
