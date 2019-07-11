@@ -26,6 +26,19 @@
 
 ## Trabajo 
 
+### Full Stack Developer - [The Key Talent](https://thekeytalent.com) (Junio 2018-Actualidad)
+
+**Descripción**
+- Desarrollo de aplicaciones web
+- Desarrollo backend API Rest (Django, Django Rest Framework)
+
+**Tecnologías utilizadas**
+- Python
+- Django
+- Django Rest Framework
+- Docker
+- Amazon Web Services
+
 ### Full Stack Developer - [Kas Factory](https://kasfactory.net) (Julio 2018-Mayo 2019)
 
 **Descripción**
