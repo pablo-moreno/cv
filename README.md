@@ -1,6 +1,6 @@
 ## Pablo Moreno 
 
-**Desarrollador de software especializado en programación web con Python y JavaScript.**
+**Desarrollador Full Stack especializado en Python y JavaScript.**
 
 ## Contacto
 
