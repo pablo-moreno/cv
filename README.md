@@ -11,7 +11,7 @@
 **Linkedin:** [Pablo Moreno Pradas](https://www.linkedin.com/in/pablo-moreno-pradas/)
 
 ## Skills
-**Lenguajes de programación:** Python, Javascript, C#
+**Lenguajes de programación:** Python, Javascript
 
 **Frameworks/Librerías:** Django, Vue, Node.js, Express, ReactJS
 
@@ -26,7 +26,21 @@
 
 ## Trabajo 
 
-### Full Stack Developer - [The Key Talent](https://thekeytalent.com) (Junio 2019-Actualidad)
+### Backend Developer - [Wegow](https://wegow.com) (Septiembre 2019-Actualidad)
+
+**Descripción**
+- Desarrollo de aplicaciones web
+- Desarrollo backend API Rest (Django, Django Rest Framework)
+
+**Tecnologías utilizadas**
+- Python
+- Django
+- Django Rest Framework
+- Kubernetes
+- Docker
+- Google Cloud Platform
+
+### Full Stack Developer - [The Key Talent](https://thekeytalent.com) (Junio 2019-Agosto 2019)
 
 **Descripción**
 - Desarrollo de aplicaciones web
