@@ -30,7 +30,7 @@
 
 **Descripción**
 - Desarrollo de aplicaciones web
-- Desarrollo backend API Rest (Django, Django Rest Framework)
+- Desarrollo backend API Rest (Django, Django Rest Framework, Django Channels)
 
 **Tecnologías utilizadas**
 - Python
@@ -38,6 +38,7 @@
 - Django Rest Framework
 - Kubernetes
 - Docker
+- Elasticsearch
 - Google Cloud Platform
 
 ### Full Stack Developer - [The Key Talent](https://thekeytalent.com) (Junio 2019-Agosto 2019)
