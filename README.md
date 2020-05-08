@@ -36,6 +36,7 @@
 - Python
 - Django
 - Django Rest Framework
+- Django Channels
 - Kubernetes
 - Docker
 - Elasticsearch
