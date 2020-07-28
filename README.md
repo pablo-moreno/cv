@@ -26,17 +26,20 @@
 
 ## Trabajo 
 
-### Backend Developer - [Wegow](https://wegow.com) (Septiembre 2019-Actualidad)
+### Full Stack Developer - [Wegow](https://wegow.com) (Septiembre 2019-Actualidad)
 
 **Descripción**
 - Desarrollo de aplicaciones web
 - Desarrollo backend API Rest (Django, Django Rest Framework, Django Channels)
+- Desarrollo frontend con Nuxt y Vue.js
 
 **Tecnologías utilizadas**
 - Python
 - Django
 - Django Rest Framework
 - Django Channels
+- Vue.js
+- Nuxt
 - Kubernetes
 - Docker
 - Elasticsearch
