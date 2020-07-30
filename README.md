@@ -24,7 +24,7 @@
 - **[Estación de medición de temperatura (IoT)](https://github.com/pablo-moreno/iot_weather_station)**
 - **Aplicación chat en tiempo real: [Backend](https://github.com/pablo-moreno/poppy) y [Frontend](https://github.com/pablo-moreno/poppy-pwa)**
 
-## Trabajo 
+## Experiencia Laboral
 
 ### Full Stack Developer - [Wegow](https://wegow.com) (Septiembre 2019-Actualidad)
 
